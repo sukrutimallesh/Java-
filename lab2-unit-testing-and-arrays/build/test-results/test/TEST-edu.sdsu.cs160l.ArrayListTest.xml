@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.sdsu.cs160l.ArrayListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-03T06:59:15" hostname="Sukrutis-MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="removeByIteratorFromArrayList()" classname="edu.sdsu.cs160l.ArrayListTest" time="0.014"/>
+  <system-out><![CDATA[Starting test execution
+Completing test execution
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
